@@ -4,7 +4,7 @@ import Heading from '../Heading/Heading'
 import Image from 'next/image'
 import { DrinksItem } from '@/constant/Drink'
 
-export default function Drink() {
+export default function Drink() {     {/* drink section added here*/}
   return (
     <section className="w-full mx-auto mt-[80px] sm:mt-[120px] px-4">
       <div className="container mx-auto py-10 sm:py-16 flex flex-col md:flex-row gap-8 md:gap-[112px]">

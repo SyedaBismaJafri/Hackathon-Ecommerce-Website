@@ -1,4 +1,4 @@
-export default function NewsletterSection() {
+export default function NewsletterSection() {    {/*news letter section here */}
     return (
 <div className="w-[1169px] mx-auto text-center mb-12 flex gap-[271px]">
 <div className="flex flex-col">

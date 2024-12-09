@@ -1,6 +1,6 @@
 
 import React from 'react'
-
+//printer clientsection here complete
 const partners = [
   { name: 'Restaurant', logo: '/bakery1.png' },
   { name: 'Bakery', logo: '/bakery2.png' },

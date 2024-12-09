@@ -4,8 +4,8 @@ export default function RecentPostsSection() {
       { title: "Change your food habit With organic food", date: "February 28, 2022", image: "/recentPost.png" },
       { title: "Do you like fastfood for your life?", date: "February 28, 2022", image: "/recentPost.png" },
     ]
-  
-    return (
+  {/* postcssfooter here*/}
+    return (  
       <div className="w-[273.83px]">
         <h3 className="text-xl font-bold mb-8">Recent Post</h3>
         {posts.map((post, index) => (

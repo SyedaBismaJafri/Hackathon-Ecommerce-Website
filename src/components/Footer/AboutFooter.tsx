@@ -20,3 +20,4 @@ export default function AboutUsSection() {
     </div>
   )
 }
+// footer section

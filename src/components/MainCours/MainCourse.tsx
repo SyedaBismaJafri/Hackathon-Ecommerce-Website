@@ -4,7 +4,7 @@ import Heading from '../Heading/Heading';
 import { MainCoursItem } from '@/constant/MainCourse';
 import Image from 'next/image';
 
-export default function MainCours() {
+export default function MainCours() { //main course section
   return (
     <section className="w-full mx-auto mt-[120px] px-4 sm:px-6 lg:px-8">
       <div className="container mx-auto py-16 flex flex-col lg:flex-row gap-12">
